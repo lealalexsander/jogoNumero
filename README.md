@@ -1,6 +1,6 @@
 # 🎯 Acerte o Número
 
-![thumbnail](https://user-images.githubusercontent.com/76708357/191305858-3d53d611-1ad9-4c3c-b11a-79ff9713153a.png)
+## Mergulhe em programação com JavaScript na Alura
 
 O **Acerte o Número** é um jogo simples onde o jogador deve adivinhar um número secreto gerado aleatoriamente entre 1 e 100. Este projeto foi desenvolvido para praticar habilidades com HTML, CSS, e JavaScript.
 
