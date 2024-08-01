@@ -6,7 +6,7 @@ O **Acerte o Número** é um jogo simples onde o jogador deve adivinhar um núme
 
 ## 🎓 Curso Alura
 
-Este projeto foi desenvolvido a partir do curso **Praticando CSS: Grid e Flexbox** da [Alura](https://www.alura.com.br).
+Este projeto foi desenvolvido a partir do curso **Mergulhando em Javascript** da [Alura](https://www.alura.com.br).
 
 ## 📋 Funcionalidades
 
