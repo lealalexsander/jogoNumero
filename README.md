@@ -54,6 +54,5 @@ Este projeto foi desenvolvido a partir do curso **Mergulhando em Javascript** da
 7. **Licença**: Informação sobre a licença do projeto.
 8. **Autor**: Informação sobre o autor e um agradecimento ao curso da Alura.
 
-👨‍💻 Autor
-Desenvolvido por Alexsander Leal a partir do curso da Alura.
+👨‍💻 Desenvolvido por Alexsander Leal a partir do curso da Alura.
 
